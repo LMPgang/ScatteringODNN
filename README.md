@@ -1,5 +1,7 @@
 # Real-time Imaging Through Moving Scattering Media Enabled by Fixed Optical Modulations
 
+English | [简体中文](README_CN.md)
+
 [![arXiv](https://img.shields.io/badge/arXiv-2508.15286-b31b1b.svg)](https://arxiv.org/pdf/2508.15286)
 [![Paper](https://img.shields.io/badge/Paper-Photonics%20Research-blue.svg)](https://doi.org/10.1364/PRJ.581675)
 [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://fishwowater.github.io/ScatteringODNN)
